@@ -1,5 +1,5 @@
 function Test() {
-    console.log("testing Something....");
+    console.log("testing Some AI Models....");
 }
 
 Test();
